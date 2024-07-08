@@ -10,6 +10,7 @@
         <geometry>
           <mesh>
 		        <uri>model://marker_6/meshes/6x6_6.dae</uri>
+            <scale>0.05 0.05 0.05</scale>
           </mesh>
         </geometry>
       </collision>
@@ -19,6 +20,7 @@
         <geometry>
           <mesh>
 		        <uri>model://marker_6/meshes/6x6_6.dae</uri>
+            <scale>0.05 0.05 0.05</scale>
           </mesh>
         </geometry>
       </visual>

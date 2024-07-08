@@ -9,7 +9,7 @@
       <collision name='collision'>
         <geometry>
           <mesh>
-          <scale>0.033 0.033 0.033</scale>
+          <scale>0.05 0.05 0.05</scale>
 		        <uri>model://marker_4/meshes/6x6_4.dae</uri>
           </mesh>
         </geometry>
@@ -19,7 +19,7 @@
         <cast_shadows>0</cast_shadows>
         <geometry>
           <mesh>
-          <scale>0.033 0.033 0.033</scale>
+          <scale>0.05 0.05 0.05</scale>
 		        <uri>model://marker_4/meshes/6x6_4.dae</uri>
           </mesh>
         </geometry>

@@ -9,8 +9,9 @@
       <collision name='collision'>
         <geometry>
           <mesh>
-          <scale>0.1 0.1 0.1</scale>
+          
 		        <uri>model://marker_1/meshes/6x6_1.dae</uri>
+            <scale>0.05 0.05 0.05</scale>
           </mesh>
         </geometry>
       </collision>
@@ -19,8 +20,9 @@
         <cast_shadows>0</cast_shadows>
         <geometry>
           <mesh>
-          <scale>0.1 0.1 0.1</scale>
+          
 		        <uri>model://marker_1/meshes/6x6_1.dae</uri>
+            <scale>0.05 0.05 0.05</scale>
           </mesh>
         </geometry>
       </visual>
