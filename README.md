@@ -34,5 +34,5 @@ git clone https://github.com/avirupghoshiitmandi/task-3-.git
  rosrun aruco_script aruco.py
  ```
  you will be able to see the arucomarkers getting detected(the markers near left end skyblue window are most properly detectable as there is no bright white or dark black areas nearby I have tried to put some markers in the middle along with adjusting the light but the detection oscilates meaning it flickers through the frames )
-
+- yt demo for this is [here](https://www.youtube.com/watch?v=06yDdh2ZGH8&ab_channel=AvirupGhosh)
 THE TASK3 1ST PART WITH REAL LIFE DETECTION IS IN THE TASK3B REPO!!
